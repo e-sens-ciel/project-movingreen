@@ -1,6 +1,4 @@
-# project-movingreen
 
- <img src="./ApercuApplication.PNG">
  # Projet Movin'Green
 
 Réalisation d’une application mobile informative,
